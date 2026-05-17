@@ -50,7 +50,7 @@ print(df2.describe())
 
 # =========================
 # GRÁFICO
-# =========================
+# =========================oro
 
 plt.scatter(df['Square_Footage'], df['House_Price'])
 
