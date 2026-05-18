@@ -1,2 +1,2 @@
 # Machine-Learning-
-Repositório destinado a matéri de machine learning e data modeling 
+Repositório destinado a matéria de machine learning e data modeling 
